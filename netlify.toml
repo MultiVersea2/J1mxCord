@@ -1,6 +1,7 @@
 [build]
-  command = ""
+  command = "echo 'Static deploy'"
   publish = "frontend"
 
 [build.environment]
   HUGO_VERSION = ""
+  NODE_VERSION = ""
