@@ -1,6 +1,2 @@
 [build]
-  command = "hugo --minify"
-  publish = "public"
-
-[build.environment]
-  HUGO_VERSION = "0.123.0"  # Or change this to your preferred Hugo version
+  publish = "frontend"
