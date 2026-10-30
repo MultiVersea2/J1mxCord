@@ -1,3 +1,6 @@
 [build]
   command = ""
   publish = "frontend"
+
+[build.environment]
+  HUGO_VERSION = ""
